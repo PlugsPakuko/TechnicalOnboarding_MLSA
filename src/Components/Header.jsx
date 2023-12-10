@@ -10,7 +10,6 @@ const Header = () => {
   return (
     <div
       style={{
-        color: "white",
         position: "fixed",
         display: "flex",
         justifyContent: "center",
@@ -22,10 +21,10 @@ const Header = () => {
         zIndex: 10,
       }}
     >
-      <a href="#home">Home</a>
-      <a href="#about">About</a>
-      <a href="#portfolio">Portfolio</a>
-      <a href="#footer">Contact</a>
+      <a href="#home" style={{ color: "white"}}>Home</a>
+      <a href="#about" style={{ color: "white"}}>About</a>
+      <a href="#portfolio" style={{ color: "white"}}>Portfolio</a>
+      <a href="#footer" style={{ color: "white"}}>Contact</a>
     </div>
   );
 };
