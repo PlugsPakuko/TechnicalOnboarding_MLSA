@@ -10,11 +10,12 @@ const Header = () => {
   return (
     <div
       style={{
+        color: "white",
         position: "fixed",
         display: "flex",
         justifyContent: "center",
         gap: "2rem",
-        background: "rgba(0,0,128,0.75)",
+        background: "rgba(0,0,128,0.5)",
         padding: "1rem",
         top: 0,
         width: "100%",
