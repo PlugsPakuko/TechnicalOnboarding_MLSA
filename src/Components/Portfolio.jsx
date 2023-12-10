@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/james-harrison-vpOeXr5wmR4-unsplash.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Programming Desktop";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "SkinSight 👁️",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The application for classify skin wound severity tell you whether you should go to hospital right now or later. With the provided first aid step for each skin type of wound.[Down for maintenance]]",
+    url: "https://skinsight.vercel.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "C shop management system",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "C project about shop management system. The system can add, edit, delete, and search for product. It also can calculate the sales repoty and manage the warestock.",
+    url: "https://github.com/PlugsPakuko/Shop-Management-System-C",
   },
   {
-    title: "My Resume Site",
+    title: "Wireless Motion Capture Suit using IMU sensor",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Affordable mocap suit with wireless connection. Applyable in various aspect; Filming, animation and other science.",
+    url: "https://github.com/PlugsPakuko/Wireless-Mocap-Suit",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "First web port",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "My first portfolio website!.",
+    url: "https://github.com/PlugsPakuko/CPE101-WebPort",
   },
 ];
 
