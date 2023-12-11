@@ -27,10 +27,10 @@ const siteProps = {
   name: "Pakkawat Kaolim",
   title: "Computer Engineering Student",
   email: "Pakkawatk16@gmail.com",
-  gitHub: "Pakkawat K",
+  gitHub: "PlugsPakuko",
   instagram: "mnispkw",
-  linkedIn: "Pakkawat Kaolim",
-  medium: "PlugsfoundBug",
+  linkedIn: "pakkawat-kaolim-56b982271",
+  medium: "plugs2004",
 };
 
 const primaryColor = "#4E567E";
